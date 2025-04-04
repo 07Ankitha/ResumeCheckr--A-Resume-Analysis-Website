@@ -115,16 +115,3 @@ ResumeCheckr is a modern web application that helps users analyze and improve th
 ![Dashboard](public/screenshots/dashboard.png)
 *User dashboard showing analysis history and saved resumes*
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Next.js team for the amazing framework
-- Prisma team for the excellent ORM
-- All contributors and users of the project
